@@ -4,6 +4,7 @@ Optimizing Retail Employee Well-being via AI
 AI Building Course Project
 
 **Summary**
+##Summary
 An AI-driven retail management system designed to optimize shift scheduling and workload forecasting. It balances commercial KPIs with labor health standards, mandatory rest periods, and work-life balance, effectively reducing frontline employee burnout.
 
 **Background**
