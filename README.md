@@ -46,3 +46,12 @@ The immediate next step for this project would be to develop a small-scale proto
 
 **Acknowledgments**
 This project was developed as the final project idea for the Building AI course by the University of Helsinki and Reaktor. It is inspired by the need to apply modern data analytics to labor relations, employment law, and the optimization of human well-being in frontline work.
+
+
+---
+
+## Course Concepts Summary
+
+To design this project, I have applied the core artificial intelligence principles learned throughout the *Building AI* course, which are summarized in the infographic below:
+
+![What I learned today](learned_image.png)
